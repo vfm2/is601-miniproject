@@ -3,7 +3,7 @@
 
 #### GIT who? 
 
-Git is a source control system to help teams collaborate in a single project without disturbing any other code. GIT tracks changes created locally, and when the developer is ready for those changes to be pushed, GIT will add those changes to your repository. Want to find out more about terms and definitions? No Problem! Go to our [Git Teminology Page!] (http://someurl "Git Termonology")  
+Git is a source control system to help teams collaborate in a single project without disturbing any other code. GIT tracks changes created locally, and when the developer is ready for those changes to be pushed, GIT will add those changes to your repository. Want to find out more about terms and definitions? No Problem! Go to our [Git Teminology Page!] (/someurl)  
 
 
 #### But how can GIT improve productivity?
