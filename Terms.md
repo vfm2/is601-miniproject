@@ -1,29 +1,28 @@
 #Git Terminology
+###Learn the basic terms for using Git!
 
-##Learn the basic terms for using Git!
+1. Repository
 
-*Repository
+2. Clone
 
-*Clone
+3. Fork
 
-*Fork
+4. Branch
 
-*Branch
+5. Commit
 
-*Commit
+6. Merge
 
-*Merge
+7. Checkout
 
-*Checkout
+8. Push
 
-*Push
+9. Pull
 
-*Pull
+10. Remote Add / Remove / Show
 
-*Remote Add / Remove / Show
+11. Status
 
-*Status
-
-*Master Branch
+12. Master Branch
 
 
