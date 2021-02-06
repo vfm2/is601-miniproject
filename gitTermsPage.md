@@ -16,79 +16,79 @@
 
 
 
-#### Repository
+### Repository
 
-Definition:
-
-- words
-
-Example:
+**Definition:**
 
 - words
 
-
-
-#### Clone
-
-Definition:
-
-- words
-
-Example:
+**Example:**
 
 - words
 
 
 
-#### Fork
+### Clone
 
-Definition:
-
-- words
-
-Example:
+**Definition:**
 
 - words
 
-
-
-#### Branch
-
-Definition:
-
-- words
-
-Example:
+**Example:**
 
 - words
 
 
 
-#### Commit
+### Fork
 
-Definition:
-
-- words
-
-Example:
+**Definition:**
 
 - words
 
-
-
-#### Merge
-
-Definition:
-
-- words
-
-Example:
+**Example:**
 
 - words
 
 
 
-#### Checkout
+### Branch
+
+**Definition:**
+
+- words
+
+**Example:**
+
+- words
+
+
+
+### Commit
+
+**Definition:**
+
+- words
+
+**Example:**
+
+- words
+
+
+
+### Merge
+
+**Definition:**
+
+- words
+
+**Example:**
+
+- words
+
+
+
+### Checkout
 
 **Definition:** Checkout is used for preparing to work on a specific branch. You often use _git checkout_ when you want to
 work on some code that isn't on the main branch. You can use this command to switch to an already existing branch
@@ -103,7 +103,7 @@ git checkout -b notMain
 #This command makes a new branch named notMain and switches to it.
 ```
 
-#### Push
+### Push
 
 **Definition:** Push is used to upload any changes made on a local machine or repository
 onto the main/master repository. It is often known as the opposite of _git fetch_. Once those changes are
@@ -128,51 +128,48 @@ git push -all
 
 ```
 
+### Pull
 
-
-#### Pull
-
-Definition:
+**Definition:**
 
 - words
 
-Example:
+**Example:**
 
 - words
 
 
+### Remote Add / Remove / Show
 
-#### Remote Add / Remove / Show
-
-Definition:
+**Definition:**
 
 - words
 
-Example:
+**Example:**
 
 - words
 
 
 
-#### Status
+### Status
 
-Definition:
-
-- words
-
-Example:
+**Definition:**
 
 - words
 
-
-
-#### Master Branch
-
-Definition:
+**Example:**
 
 - words
 
-Example:
+
+
+### Master Branch
+
+**Definition:**
+
+- words
+
+**Example:**
 
 - words
 
