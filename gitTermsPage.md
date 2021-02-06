@@ -172,14 +172,24 @@ git remote show origin
 
 ### Status
 
-**Definition:**
-
-- words
+**Definition:** Status is used to check on information about the branch you are currently working on.
+This command has no effect on anything you modify and only outputs information. 
+It is often used to check what branch you're working on and see what files haven't been committed (and pushed) yet.
+Information that the output gives you includes the following:
+* Current branch
+* Modified files that haven't been committed
+* Modified files that haven't been staged
+* If branch is up to date with the repository
+* If there is any conflicts in files when attempting to merge
 
 **Example:**
+````shell
+git status
+#This command gives all the information defined above.
 
-- words
-
+git status -s 
+#This command gives the same output as above but in a more concise and shorter format.
+````
 
 
 ### Master Branch
