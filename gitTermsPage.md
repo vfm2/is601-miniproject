@@ -105,13 +105,28 @@ git checkout -b notMain
 
 #### Push
 
-Definition:
+**Definition:** Push is used to upload any changes made on a local machine or repository
+onto the main/master repository. It is often known as the opposite of _git fetch_. Once those changes are
+pushed onto the main repository, other collaborators are able to see those changes you made on your
+local machine/repository. With this command, you specify from what branch you are pushing from and onto where
+(normally the main). What's also good about this command is that unless you force it to, it will not 
+overwrite anything that is in the main branch.
 
-- words
+**Example:**
+```shell
+git push 
+#This command updates changes to the main branch.
 
-Example:
+git push foo main
+# This command more speciically updtates changes to the main branch from the foo branch.
 
-- words
+git push -f 
+#This command forces a push that may  normally be blocked by git.
+
+git push -all 
+#This command updates changes to the main branch from all other branches.
+
+```
 
 
 
