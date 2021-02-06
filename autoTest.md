@@ -20,3 +20,7 @@ The faster you push out new updates, the more appealing and even better the app 
 1. [Wikipedia Page on Test Automation](https://en.wikipedia.org/wiki/Test_automation)
 2. [TestIM Blog](https://www.testim.io/blog/what-is-test-automation/#:~:text=Test%20automation%20is%20the%20practice,the%20entire%20software%20production%20team.)
 3. [Bitbar Blog](https://bitbar.com/blog/increase-efficiency-and-productivity-with-test-automation/)
+
+#### Next Page: [Continuous Integration](https://github.com/vfm2/is601-miniproject/blob/main/contInt.md)
+#### Previous Page: [Docker](https://github.com/vfm2/is601-miniproject/blob/main/dockerPage.md)
+#### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)

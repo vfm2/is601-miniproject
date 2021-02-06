@@ -17,3 +17,7 @@ Bugs often hide other bugs and being able to catch any mistakes and ensure all c
 #### References
 1. [CloudBees Article](https://www.cloudbees.com/continuous-delivery/continuous-integration)
 2. [Codemagic Article](https://nevercode.io/blog/what-is-continuous-integration-and-how-to-benefit-from-it/)
+
+#### Next Page: [Gitflow](https://github.com/vfm2/is601-miniproject/blob/main/gitflowPage.md)
+#### Previous Page: [Automated Testing](https://github.com/vfm2/is601-miniproject/blob/main/autoTest.md)
+#### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)

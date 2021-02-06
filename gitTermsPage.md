@@ -204,6 +204,9 @@ be pushed back into the master branch and pulled by the master branch.
 
 ![Image of Master Branch](https://static.javatpoint.com/tutorial/git/images/git-branch.png)
 
+#### Previous Page: [Gitflow](https://github.com/vfm2/is601-miniproject/blob/main/gitflowPage.md)
+#### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
+
 ##### [Top of page](#Git-Terminology) &#8593;
 
 
