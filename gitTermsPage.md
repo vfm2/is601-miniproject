@@ -130,24 +130,43 @@ git push -all
 
 ### Pull
 
-**Definition:**
-
-- words
-
-**Example:**
-
-- words
-
-
-### Remote Add / Remove / Show
-
-**Definition:**
-
-- words
+**Definition:** Pull is the opposite of push. It is used to download updates or changes from one branch to another. 
+You can pull changes from some remote branch into your local branch or vice versa.
+This is also key in ensuring the main branch is updated with changes from your own branches.
+On GitHub, you can also use Pull Requests. Pull is also a combination of fetch and merge.
 
 **Example:**
+````shell
+git pull 
+#This command is the default for fetching changes from the master branch onto your local branch.
 
-- words
+git pull --rebase
+#This command pulls all changes from the main branch and any local changes are applied on top of the main changes.
+
+git pull origin master
+#This command pulls changes from the master branch into the origin branch.
+````
+
+### Remote (Add/Remove/Show)
+
+**Definition:** Remote as its own command deals with keeping track of repositories and branches being worked on.
+However, what we are interested in are three arguments that are used with remote: add, remove, and show.
+* Add:
+* Remove:
+* Show:
+
+
+**Example:**
+````shell
+git remote add 
+#This command
+
+git remote remove 
+#This command
+
+git remote show
+#This command
+````
 
 
 
