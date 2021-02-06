@@ -1,5 +1,5 @@
-#Git Terminology
-###Learn the basic terms for using Git!
+# Git Terminology
+### Learn the basic terms for using Git!
 
 1. Repository
 
