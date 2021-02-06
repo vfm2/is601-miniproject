@@ -147,27 +147,27 @@ git pull origin master
 #This command pulls changes from the master branch into the origin branch.
 ````
 
-### Remote (Add/Remove/Show)
+### Remote (Add / Remove / Show)
 
 **Definition:** Remote as its own command deals with keeping track of repositories and branches being worked on.
 However, what we are interested in are three arguments that are used with remote: add, remove, and show.
-* Add:
-* Remove:
-* Show:
+* Add: The add argument can be used for adding repositories to your machine.
+* Remove: The remove argument is the opposite of add, and deletes any repositories from your machine.
+* Show: The show argument provides information on the specified repository (origin is the default).
+Such information includes the repo URL and any remote or local branches. 
 
 
 **Example:**
 ````shell
-git remote add 
-#This command
+git remote add newRepo <url>
+#This command takes the Git repository provided in the URL, and adds it to your local machine under the name newRepo.
 
-git remote remove 
-#This command
+git remote remove newRepo
+#This command will remove the newRepo repository on your local machine. Everything that was on that repo will also be removed.
 
-git remote show
-#This command
+git remote show origin
+#This command shows plenty of information on the origin repository.
 ````
-
 
 
 ### Status
