@@ -147,15 +147,26 @@ git pull origin master
 #This command pulls changes from the master branch into the origin branch.
 ````
 
-### Remote Add / Remove / Show
+### Remote (Add/Remove/Show)
 
-**Definition:**
+**Definition:** Remote as its own command deals with keeping track of repositories and branches being worked on.
+However, what we are interested in are three arguments that are used with remote: add, remove, and show.
+* Add:
+* Remove:
+* Show:
 
-- words
 
 **Example:**
+````shell
+git remote add 
+#This command
 
-- words
+git remote remove 
+#This command
+
+git remote show
+#This command
+````
 
 
 
