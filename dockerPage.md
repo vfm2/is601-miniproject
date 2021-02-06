@@ -4,11 +4,11 @@
 
 #### Docker what? 
 
-Docker creates a container of all of your applications dependencies. The containerized method makes running your application easier to deploy and run in linux environments. Docker creates an image using a docker file specifying the packages needed for code deployment. For example, if you want to run your code on an empty serve. The docker image containing the needed packages will upload those configurations to the server and allow the code to run flawlessly. 
+Docker creates a container of all of your applications dependencies. The containerized method makes running your application easier to deploy and run in linux environments. Docker creates an image using a docker file specifying the components needed for code deployment. For example, if you want to run your code on an empty serve. The docker image containing the needed components will upload those configurations to the server and allow the code to run flawlessly. 
 
 #### How does Docker improve productivity? 
 
-Docker allows developers to focus on creating code, without worrying about if the configurations will be set in the environment the code is being deployed. 
+Docker allows developers to focus on creating code, without worrying about if the configurations will be set to the environment being deployed. 
 
 
 
