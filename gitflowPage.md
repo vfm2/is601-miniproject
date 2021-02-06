@@ -1,6 +1,10 @@
 # The Gitflow Method
 
-## Follow this Guide to use GIT efficiently with Multiple Developers
+## Follow this Guide to use GIT efficiently in Groups
+
+
+
+#### Gitflow 
 
 
 
