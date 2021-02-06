@@ -90,15 +90,18 @@ Example:
 
 #### Checkout
 
-Definition:
+**Definition:** Checkout is used for preparing to work on a specific branch. You often use _git checkout_ when you want to
+work on some code that isn't on the main branch. You can use this command to switch to an already existing branch
+or even make a new branch, then switch to that branch to work on.
 
-- words
+**Example:**
+```shell
+git checkout foo 
+#This command switches to already-exiting branch named foo.
 
-Example:
-
-- words
-
-
+git checkout -b notMain
+#This command makes a new branch named notMain and switches to it.
+```
 
 #### Push
 
