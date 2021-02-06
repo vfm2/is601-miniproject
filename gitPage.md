@@ -1,4 +1,4 @@
-# Lets GIT it
+# Let's GIT it
 ## The Importance of GIT for Productivity in Companies 
 
 #### GIT who? 
@@ -15,5 +15,6 @@ Git improves productivity by allowing multiple developers to work on multiple fe
 
 
 
+#### Next Page: [Docker](https://github.com/vfm2/is601-miniproject/blob/main/dockerPage.md)
 
 ## 
