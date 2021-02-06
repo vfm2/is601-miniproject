@@ -10,5 +10,6 @@ Docker creates a container of all of your applications dependencies. The contain
 
 Docker allows developers to focus on creating code, without worrying about if the configurations will be set to the environment being deployed. 
 
-
-
+#### Next Page: [Automated Testing](https://github.com/vfm2/is601-miniproject/blob/main/autoTest.md)
+#### Previous Page: [Git](https://github.com/vfm2/is601-miniproject/blob/main/gitPage.md)
+#### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)

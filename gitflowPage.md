@@ -17,3 +17,4 @@ Gitflow has several benefits.
 
 #### Next Page: [Git Terminology](https://github.com/vfm2/is601-miniproject/blob/main/gitTermsPage.md)
 #### Previous Page: [Continuous Integration](https://github.com/vfm2/is601-miniproject/blob/main/contInt.md)
+#### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
