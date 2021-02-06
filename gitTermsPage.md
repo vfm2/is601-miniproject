@@ -191,23 +191,20 @@ git status -s
 #This command gives the same output as above but in a more concise and shorter format.
 ````
 
-
 ### Master Branch
 
-**Definition:**
+**Definition:** The Master Branch is the branch that has all of the most updated code and programs.
+It is the default branch in the repository and is also sometimes called the main branch.
+Developers will normally create their own branches to contribute work, and that work gets updated to the master branch.
+The master branch contain all of the newest and best changes after having code pushed into and pulled from other branches.
 
-- words
+**Example:** This is an example visualization of what the master branch and other branches look like when using Git.
+There are two branches in which work is completed, but whatever changes are made in those two branches will eventually
+be pushed back into the master branch and pulled by the master branch.
 
-**Example:**
-
-- words
-
-
+![Image of Master Branch](https://static.javatpoint.com/tutorial/git/images/git-branch.png)
 
 ##### [Top of page](#Git-Terminology) &#8593;
-
-
-
 
 
 
