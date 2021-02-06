@@ -8,7 +8,7 @@ Docker creates a container of all of your applications dependencies. The contain
 
 #### How does Docker improve productivity? 
 
-Docker allows developers to focus on creating code, without worrying about if the configurations will be set in the environment the code is being deployed. 
+Docker allows developers to focus on creating code, without worrying about if the configurations will be set to the environment being deployed. 
 
 
 
