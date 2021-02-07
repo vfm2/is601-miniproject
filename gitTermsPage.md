@@ -18,73 +18,65 @@
 
 ### Repository
 
-**Definition:**
-
-- words
+**Definition:** A repository is place for developers to store and track their code while creating a project. Users see previous changes and versions of each file. You are able to copy the project by using a cloning method which will bring the code onto your local machine. From there, the user can make changes then push them back up into the project when the tasks are completed. 
 
 **Example:**
-
-- words
-
-
+![Image of Master Branch](images/repoImage.JPG)
 
 ### Clone
 
-**Definition:**
-
-- words
+**Definition:** Clone is a copy of a repository into your local machine. The command to clone is "git clone nameOfRepository" which will then download the entire project. Users can use the git clone using HTTPS, SSH, or GitHub CLI.
 
 **Example:**
-
-- words
-
-
+```shell
+git clone git@github.com:user/testProject.git
+#This command copies the "testProject" onto their local machine. 
+```
 
 ### Fork
 
-**Definition:**
-
-- words
+**Definition:** A fork is creating a copy of a repository, and continuing it as your own project. A fork will allow you to use the code already created, but the project will remain in your GitHub account.
 
 **Example:**
 
-- words
-
-
+![Image of Master Branch](images/fork_button.JPG)
 
 ### Branch
 
-**Definition:**
-
-- words
+**Definition:** A branch is a line of development for edits and commits. It is a way to record the history of a branch new working directory.
 
 **Example:**
+```shell
+git branch newBranch
+#This command creates a new branch.
 
-- words
+git branch -l
+#This command will list all of the branches in repository.
 
-
+git branch -r branchName
+#This command will remove "branchName".
+```
 
 ### Commit
 
-**Definition:**
-
-- words
+**Definition:** Commits are used after completing changes on your local repository. Using the command "git commit" will save the changes locally and create a commit. 
 
 **Example:**
-
-- words
-
-
+```shell
+git commit -m "Task: this is a message for commits"
+#This command saves the changes and adds a message associated to that commit. 
+```
 
 ### Merge
 
-**Definition:**
-
-- words
+**Definition:** Merging is a way integrating two branches in to a single branch. Using "git merge" will combine the series of commits into one history.
 
 **Example:**
-
-- words
+```shell
+#On branch master
+git merge hotfix
+#This command will merge the commits in branch hotfix to the master branch.
+```
 
 
 
