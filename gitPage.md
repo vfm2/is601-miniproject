@@ -5,10 +5,9 @@
 
 Git is a source control system to help teams collaborate in a single project without disturbing any other code. GIT tracks changes created locally, and when the developer is ready for those changes to be pushed, GIT will add those changes to your repository. Want to find out more about terms and definitions? No Problem! Go to our [Git Termonology Page!](https://github.com/vfm2/is601-miniproject/blob/main/gitTermsPage.md "Get Terminology")
 
-To download git, please go to [download](https://git-scm.com/downloads).
+To download git, please click the image below. 
 
-
-
+[![Git logo](images/gitIcon.png)](https://git-scm.com/downloads)
 
 #### How can GIT improve productivity and competitiveness?
 
