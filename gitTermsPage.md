@@ -39,7 +39,7 @@ git clone git@github.com:user/testProject.git
 
 **Example:**
 
-![Image of Master Branch](images/fork_button.JPG)
+![Image of Master Branch](images/fork_button.jpg)
 
 ### Branch
 
