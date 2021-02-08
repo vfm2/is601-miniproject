@@ -4,7 +4,8 @@
 
 #### What is Docker? 
 
-Docker creates a container of all of your applications dependencies. The containerized method makes running your application easier to deploy and run in linux environments. Docker creates an image using a docker file specifying the components needed for code deployment. For example, if you want to run your code on an empty server. The docker image containing the needed components will upload those configurations to the server and allow the code to run flawlessly. 
+Docker creates a container of all of your applications dependencies. The containerized method makes running your application easier to deploy and run in linux environments. Docker creates an image using a docker file specifying the components needed for code deployment. For example, if you want to run your code on an empty server. The docker image containing the needed components will upload those configurations to the server and allow the code to run flawlessly.
+For more information about docker, please click [here!](https://docs.docker.com/get-started/overview/)
 
 #### How can Docker improve productivity and competitiveness?
 
@@ -16,6 +17,8 @@ Docker has the following features:
 - Fast, consistent delivery of your applications
 - Responsive deployment and scaling
 - Running more workloads on the same hardware
+
+To download docker, please go to [download](https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc).
 
 #### Docker Architecture 
 
