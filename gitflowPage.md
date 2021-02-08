@@ -1,8 +1,5 @@
 # The Gitflow Method
 
-#### Follow this Guide to use GIT efficiently in Groups
- 
-
 
 ### What is Gitflow? 
 Gitflow is a workflow branch model created by Vincent Driessen about 10 years ago. 
