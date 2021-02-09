@@ -202,4 +202,3 @@ be pushed back into the master branch and pulled by the master branch.
 ##### [Top of page](#Git-Terminology) &#8593;
 
 
-

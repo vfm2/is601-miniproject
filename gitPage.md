@@ -13,7 +13,7 @@ To download git, please click the image below.
 
 Git improves productivity by allowing multiple developers to work on multiple features all at once. Users can review code done by each member and track each other's work.
 
-Git has the following features: 
+Git has the following features:
 
 - Branching and Merging
     - Git encourage multiple branches of a repository to independent versions of code. Developers can switch branches easily then merge them into a single master branch.
@@ -37,4 +37,5 @@ All of these features make GIT the perfect management tool to use for small or l
 
 #### Next Page: [Docker](https://github.com/vfm2/is601-miniproject/blob/main/dockerPage.md)
 #### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
-## 
+
+##### [Top of page](#Git-Terminology) &#8593;

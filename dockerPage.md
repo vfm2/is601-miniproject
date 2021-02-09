@@ -24,10 +24,15 @@ To download docker, please go to [download](https://hub.docker.com/search?q=&typ
 
 ![Image of Docker Architecture](images/architecture.JPG)
 
+#### Docker Download instructions
 
-To download docker, please go to [download](https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc).
+To download docker, please go to [downloads page](https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc).
+
+
 
 
 #### Next Page: [Automated Testing](https://github.com/vfm2/is601-miniproject/blob/main/autoTest.md)
 #### Previous Page: [Git](https://github.com/vfm2/is601-miniproject/blob/main/gitPage.md)
 #### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
+
+##### [Top of page](#Git-Terminology) &#8593;
