@@ -31,4 +31,4 @@ For more in depth information on Gitflow, you can read more about it [here!](htt
 #### Previous Page: [Continuous Integration](https://github.com/vfm2/is601-miniproject/blob/main/contInt.md)
 #### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
 
-##### [Top of page](#Git-Terminology) &#8593;
+##### [Top of page](#The-Gitflow-Method) &#8593;

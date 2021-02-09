@@ -25,4 +25,4 @@ The faster you push out new updates, the more appealing and even better the app 
 #### Previous Page: [Docker](https://github.com/vfm2/is601-miniproject/blob/main/dockerPage.md)
 #### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
 
-##### [Top of page](#Git-Terminology) &#8593;
+##### [Top of page](#Automated-Testing) &#8593;
