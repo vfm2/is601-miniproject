@@ -21,3 +21,5 @@ Bugs often hide other bugs and being able to catch any mistakes and ensure all c
 #### Next Page: [Gitflow](https://github.com/vfm2/is601-miniproject/blob/main/gitflowPage.md)
 #### Previous Page: [Automated Testing](https://github.com/vfm2/is601-miniproject/blob/main/autoTest.md)
 #### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
+
+##### [Top of page](#Continuous-Integration) &#8593;
