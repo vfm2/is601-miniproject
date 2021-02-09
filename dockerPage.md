@@ -28,8 +28,10 @@ To download docker, please go to [download](https://hub.docker.com/search?q=&typ
 
 To download docker, please go to [downloads page](https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc).
 
-
-
+After downloaded, open your terminal and use the following command:
+```shell
+docker run -d -p 80:80 docker/getting-started
+```
 
 #### Next Page: [Automated Testing](https://github.com/vfm2/is601-miniproject/blob/main/autoTest.md)
 #### Previous Page: [Git](https://github.com/vfm2/is601-miniproject/blob/main/gitPage.md)

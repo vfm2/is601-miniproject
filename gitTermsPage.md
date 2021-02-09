@@ -1,5 +1,6 @@
 # Git Terminology
 ### Learn the basic terms for using Git!
+*Click for definition and example*
 
 1. [Repository](#Repository "Go to Repository") 
 2. [Clone](#Clone "Go to Clone")
