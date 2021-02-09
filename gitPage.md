@@ -38,4 +38,4 @@ All of these features make GIT the perfect management tool to use for small or l
 #### Next Page: [Docker](https://github.com/vfm2/is601-miniproject/blob/main/dockerPage.md)
 #### Back to [README.md](https://github.com/vfm2/is601-miniproject/blob/main/README.md)
 
-##### [Top of page](#Let's-GIT-it) &#8593;
+##### [Top of page](#The-Importance-of-GIT-for-Productivity-in-Companies) &#8593;
